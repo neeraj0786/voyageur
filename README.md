@@ -14,9 +14,9 @@
 <ol>
     <li><span style="font-family: Comic Sans MS, sans-serif;">Book Tickets , Hotels , Facial Login .</span></li>
 </ol>
-<p><span style="font-family: Comic Sans MS, sans-serif;"><br><img src="https://drive.google.com/uc?export=view&id=1nlAllS0Q9UEeRHB6ZrJsdHJQd8jNsIUb"><br></span></p>
-<p><span style="font-family: Comic Sans MS, sans-serif;"><br><img src="https://drive.google.com/uc?export=view&id=1vITHsCOg1vRoUvCNPFg8AUPXNEBRCAwu"><br></span></p>
-<p><span style="font-family: Comic Sans MS, sans-serif;"><br><img src="https://drive.google.com/uc?export=view&id=1cGH-ALCR0WmMKwzP3HmzL0YQT9LbEsRa"><br></span></p>
+<p><span style="font-family: Comic Sans MS, sans-serif;"><br><img src="https://drive.google.com/uc?export=view&id=1nlAllS0Q9UEeRHB6ZrJsdHJQd8jNsIUb"><br></span></p><hr>
+<p><span style="font-family: Comic Sans MS, sans-serif;"><br><img src="https://drive.google.com/uc?export=view&id=1vITHsCOg1vRoUvCNPFg8AUPXNEBRCAwu"><br></span></p><hr>
+<p><span style="font-family: Comic Sans MS, sans-serif;"><br><img src="https://drive.google.com/uc?export=view&id=1cGH-ALCR0WmMKwzP3HmzL0YQT9LbEsRa"><br></span></p><hr>
 <p><span style="font-family: Comic Sans MS, sans-serif;"><br><img src="https://drive.google.com/uc?export=view&id=1n91-7XYRpVYV17mz0-ozlIObj3us9yY4"><br></span></p>
-<p><span style="font-family: Comic Sans MS, sans-serif;"><br></span></p>
+<p><span style="font-family: Comic Sans MS, sans-serif;"><br><hr></span></p>
 <p><br></p>
