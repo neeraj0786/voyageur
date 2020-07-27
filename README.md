@@ -12,7 +12,7 @@
 </ol>
 <p><span style="font-family: Comic Sans MS, sans-serif; font-size: 20px;">Future Aspects&nbsp;</span><span style="font-family: Comic Sans MS, sans-serif; font-size: 24px;"> </span></p>
 <ol>
-    <li><span style="font-family: Comic Sans MS, sans-serif;">Book Tickets , Hotels , Facial Login .</span></li>
+    <li><span style="font-family: Comic Sans MS, sans-serif;"> Book Tickets , Hotels , Facial Login .</span></li>
 </ol>
 <p><span style="font-family: Comic Sans MS, sans-serif;"><br><img src="https://drive.google.com/uc?export=view&id=1nlAllS0Q9UEeRHB6ZrJsdHJQd8jNsIUb"><br></span></p><hr>
 <p><span style="font-family: Comic Sans MS, sans-serif;"><br><img src="https://drive.google.com/uc?export=view&id=1vITHsCOg1vRoUvCNPFg8AUPXNEBRCAwu"><br></span></p><hr>
